@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shreekala-pandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&scale=0.8)](www.linkedin.com/in/shreekala-pandey)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreekalapandey19@gmail.com) 
 ## 🏅My Google  Badges
 <p align="center">
