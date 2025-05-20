@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&scale=0.8)](www.linkedin.com/in/shreekala-pandey)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreekalapandey19@gmail.com) 
-## 🏅My Google  Badges
+## 🏅My Google Developer Badges
 <p align="center">
   <a href="https://link-to-badge1"><img src="https://developers.google.com/static/profile/badges/playlists/ml/get-started-image-product-search/badge.svg" width="120"/></a>
   <a href="https://link-to-badge2"><img src="https://developers.google.com/static/profile/badges/playlists/ml/get-started-object-detection/badge.svg" width="120"/></a>
