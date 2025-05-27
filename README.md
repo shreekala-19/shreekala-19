@@ -2,9 +2,6 @@
 👋 Hi there! I'm Shree.<br><br>I'm an aspiring web developer who loves to learn by building and sharing.<br>I run webdevwithshree.org — a chill spot where I blog about what I'm learning, share code, and try to make web development a little less scary for beginners.<br>Here on GitHub, you'll find my learning journey — from small projects to experiments and small wins I’m proud of. I'm always trying to improve, explore new tools, and build things that work.<br><br>Thanks for stopping by!<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&scale=0.8)](www.linkedin.com/in/shreekala-pandey)
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreekalapandey19@gmail.com) 
 ## 🏅My Google Developer Badges
 <p align="center">
   <a href="https://link-to-badge1"><img src="https://developers.google.com/static/profile/badges/playlists/ml/get-started-image-product-search/badge.svg" width="120"/></a>
@@ -20,6 +17,9 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&scale=0.8)](www.linkedin.com/in/shreekala-pandey)
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreekalapandey19@gmail.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shreekala-19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shreekala-19&theme=dark&hide_border=false)<br/>
