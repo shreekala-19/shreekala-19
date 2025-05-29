@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Shree.<br><br>I'm an aspiring web developer who loves to learn by building and sharing.<br>I run webdevwithshree.org — a chill spot where I blog about what I'm learning, share code, and try to make web development a little less scary for beginners.<br>Here on GitHub, you'll find my learning journey — from small projects to experiments and small wins I’m proud of. I'm always trying to improve, explore new tools, and build things that work.<br><br>Thanks for stopping by!<br>
+👋 Hi there! I'm Shreekala Pandey.<br><br>I'm an aspiring web developer who loves to learn by building and sharing.<br>I run webdevwithshree.org — a chill spot where I blog about what I'm learning, share code, and try to make web development a little less scary for beginners.<br>Here on GitHub, you'll find my learning journey — from small projects to experiments and small wins I’m proud of. I'm always trying to improve, explore new tools, and build things that work.<br><br>Thanks for stopping by!<br>
 
 
 ## 🏅My Google Developer Badges
