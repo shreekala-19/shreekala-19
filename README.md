@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/shreekala-19/shreekala-19/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" 
+       alt="Shree's GitHub Banner" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F66DF7&width=435&lines=Hiya!+%F0%9F%91%8B+I'm++Shree;And+I+love+building+cool+stuff+" alt="Typing SVG" />
   </a>
